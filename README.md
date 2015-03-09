@@ -64,3 +64,5 @@ The OMA LWM2M DevKit will provide tooltips that guide through the process. When 
 ![Tooltips](https://raw.githubusercontent.com/OpenMobileAlliance/OMA-LWM2M-DevKit/master/docs/tooltips.png)
 
 After the first run, tooltips are disabled. They can be re-enabled again through the preference menu or directly through hotkey `H`.
+
+New line
